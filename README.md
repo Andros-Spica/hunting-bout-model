@@ -1,4 +1,4 @@
-# Agent-Based Modeling of Traditional Bow-and-Arrow Hunting: A Simulation approach to Hunter and Prey Behavior
+# The Hunting Bout model: Agent-Based Modelling of Traditional Bow-and-Arrow Hunting: A Simulation Approach to Hunter and Prey Behaviour
 Repository for simulation models about traditional bow-and-arrow hunting, created within the framework of the [Modelling Prehistoric Hunting (MPJ) project](https://mpj.uni-koeln.de/).
 
 The Modelling Prehistoric Hunting (MPJ) project, which expanded upon the [Indigenous Knowledge and Archaeoinformatics (IKAi) project](https://ikai.phil-fak.uni-koeln.de/en/), employed agent-based modelling to simulate dynamic human-animal interactions under changing environmental conditions. The IKAi project's collected datasets significantly informed and benefited these models, contributing to a better understanding of how climatic variation may have influenced the survival of hunter-gatherer groups.

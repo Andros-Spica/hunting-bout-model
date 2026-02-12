@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18624889.svg)](https://doi.org/10.5281/zenodo.18624889) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # The Hunting Bout model: Agent-Based Modelling of Traditional Bow-and-Arrow Hunting: A Simulation Approach to Hunter and Prey Behaviour
 Repository for simulation models about traditional bow-and-arrow hunting, created within the framework of the [Modelling Prehistoric Hunting (MPJ) project](https://mpj.uni-koeln.de/).
 

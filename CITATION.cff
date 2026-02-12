@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Andreas"
+  given-names: "Angourakis"
+  orcid: https://orcid.org/0000-0002-9946-8142
+title: "The Hunting Bout model: Agent-Based Modelling of Traditional Bow-and-Arrow Hunting: A Simulation Approach to Hunter and Prey Behaviour"
+abstract: "Repository for the HunterPreyGame model, an ABM model about traditional bow-and-arrow hunting within the framework of the MPJ project (University of Cologne)"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXX
+date-released: 2026-02-12
+url: "https://github.com/Andros-Spica/hunting-bout-model"
